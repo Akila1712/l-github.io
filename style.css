@@ -145,9 +145,9 @@ a:hover{
 .register a{
     font-weight: 500;
 }
-@media screen(max-width: 564p) {
+@media only screen and (max-width: 564px) {
     .wrapper{
-        padding:2opx;
+        padding:20px;
     }
     .login_box{
         padding: 7.5em 1.5em 4em 1.5em;
